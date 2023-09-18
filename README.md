@@ -32,3 +32,13 @@ The Calculator includes the following features:
 --> Provide a clear button and a display for calculations.
 
 --> Use Python and Tkinter Library.
+
+
+<h2>Task 3: Password Generator</h2>
+
+In this project, I've created a graphical user interface (GUI) for a Password Generator application using Python and the Tkinter library. A password generator is a useful tool that generates strong and random passwords for users. This project aims to create a password generator application using Python, allowing users to specify the length and complexity of the password.
+
+🔐 Password Generator Code Summary
+
+This application is build using Python program that creates a graphical user interface (GUI) application using the Tkinter library for generating and copying random passwords. The application allows the user to select the **complexity level (Weak, Medium, or Strong)** and the **desired length** for the password. When the **"Generate Password"** button is clicked, a password of the specified complexity and length is **generated and displayed** in a text field. The user can then **copy this password** to the clipboard using the **"Copy"** button. The GUI includes radio buttons to choose the complexity, a spinbox to select the password length, and labels and buttons for various actions. It also uses the **pyperclip library** to handle copying the generated password to the clipboard.
+
